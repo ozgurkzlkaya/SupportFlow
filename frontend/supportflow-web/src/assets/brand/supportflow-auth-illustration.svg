@@ -1,0 +1,45 @@
+<svg width="720" height="520" viewBox="0 0 720 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.95">
+    <circle cx="562" cy="98" r="88" fill="white" fill-opacity="0.08"/>
+    <circle cx="116" cy="420" r="120" fill="white" fill-opacity="0.06"/>
+    <path d="M188 126C188 109.431 201.431 96 218 96H446C462.569 96 476 109.431 476 126V286C476 302.569 462.569 316 446 316H218C201.431 316 188 302.569 188 286V126Z" fill="white" fill-opacity="0.12"/>
+    <path d="M206 146C206 132.745 216.745 122 230 122H434C447.255 122 458 132.745 458 146V286C458 299.255 447.255 310 434 310H230C216.745 310 206 299.255 206 286V146Z" fill="#FAF5FF" fill-opacity="0.94"/>
+    <rect x="230" y="152" width="98" height="12" rx="6" fill="#C4B5FD"/>
+    <rect x="230" y="178" width="164" height="10" rx="5" fill="#DDD6FE"/>
+    <rect x="230" y="198" width="140" height="10" rx="5" fill="#E9D5FF"/>
+    <rect x="230" y="232" width="112" height="72" rx="18" fill="url(#cardGlow)"/>
+    <rect x="356" y="232" width="78" height="16" rx="8" fill="#C4B5FD"/>
+    <rect x="356" y="258" width="62" height="12" rx="6" fill="#DDD6FE"/>
+    <rect x="356" y="280" width="48" height="12" rx="6" fill="#E9D5FF"/>
+    <path d="M486 232C486 200.52 511.52 175 543 175C574.48 175 600 200.52 600 232V246C600 260.359 588.359 272 574 272H566C561.582 272 558 268.418 558 264V240C558 235.582 561.582 232 566 232H579.79C578.397 214.674 563.95 201 547.5 201C531.05 201 516.603 214.674 515.21 232H529C533.418 232 537 235.582 537 240V264C537 268.418 533.418 272 529 272H521C506.641 272 495 260.359 495 246V232H486Z" fill="white"/>
+    <path d="M533 272H558C558 287.464 545.464 300 530 300H523" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="522" cy="249" r="9" fill="#DDD6FE"/>
+    <circle cx="574" cy="249" r="9" fill="#DDD6FE"/>
+    <path d="M132 286C132 274.954 140.954 266 152 266H304C315.046 266 324 274.954 324 286V394C324 405.046 315.046 414 304 414H152C140.954 414 132 405.046 132 394V286Z" fill="white" fill-opacity="0.12"/>
+    <path d="M150 302C150 293.163 157.163 286 166 286H292C300.837 286 308 293.163 308 302V394C308 402.837 300.837 410 292 410H166C157.163 410 150 402.837 150 394V302Z" fill="#F5F3FF"/>
+    <rect x="174" y="314" width="90" height="10" rx="5" fill="#A78BFA"/>
+    <rect x="174" y="336" width="92" height="48" rx="16" fill="url(#miniGlow)"/>
+    <rect x="174" y="392" width="58" height="8" rx="4" fill="#DDD6FE"/>
+    <path d="M442 334C442 323.507 450.507 315 461 315H568C578.493 315 587 323.507 587 334V410C587 420.493 578.493 429 568 429H461C450.507 429 442 420.493 442 410V334Z" fill="white" fill-opacity="0.14"/>
+    <path d="M459 347C459 339.268 465.268 333 473 333H555C562.732 333 569 339.268 569 347V407C569 414.732 562.732 421 555 421H473C465.268 421 459 414.732 459 407V347Z" fill="#F8F5FF"/>
+    <rect x="480" y="355" width="56" height="10" rx="5" fill="#C4B5FD"/>
+    <rect x="480" y="378" width="68" height="8" rx="4" fill="#DDD6FE"/>
+    <rect x="480" y="394" width="42" height="8" rx="4" fill="#E9D5FF"/>
+    <circle cx="546" cy="390" r="26" fill="url(#badgeGlow)"/>
+    <path d="M540.5 390.5L545 395L554.5 385.5" stroke="white" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <defs>
+    <linearGradient id="cardGlow" x1="230" y1="232" x2="342" y2="304" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#6D28D9"/>
+    </linearGradient>
+    <linearGradient id="miniGlow" x1="174" y1="336" x2="266" y2="384" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="badgeGlow" x1="520" y1="364" x2="572" y2="416" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#5B21B6"/>
+    </linearGradient>
+  </defs>
+</svg>

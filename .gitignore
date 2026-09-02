@@ -1,0 +1,52 @@
+# Build and frontend dependencies
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+**/build/
+**/coverage/
+**/TestResults/
+**/test-results/
+**/.expo/
+**/.gradle/
+**/.cxx/
+tmp/
+backend/tmp/
+artifacts/
+.artifacts/
+
+# Gmail OAuth client credentials and token stores
+secrets/
+**/secrets/
+gmail-oauth*.json
+**/gmail-oauth*.json
+client_secret*.json
+**/client_secret*.json
+gmail-token*/
+**/gmail-token*/
+gmail-oauth-state*/
+**/gmail-oauth-state*/
+tokens/
+**/tokens/
+uploads/
+**/uploads/
+
+# Environment and IDE files
+.env
+.env.*
+.vs/
+.vscode/
+.idea/
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.tsbuildinfo
+
+# Android signing material
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+*.mobileprovision
